@@ -31,4 +31,5 @@ task :console => :environment do
 end
 
 task :console
+end 
 end
