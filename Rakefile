@@ -29,4 +29,6 @@ desc 'seed the database with some dummy data'
 task :console => :environment do
   Pry.start
 end
+
+task :console
 end
